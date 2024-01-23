@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.learn
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, h2, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, properties, readme, serialization-jackson, shade]
